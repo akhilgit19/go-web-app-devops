@@ -1,6 +1,0 @@
-replicaCount: 3
-
-image:
-  repository: akhilpagadapoola/go-web-app
-  tag: v1
-  pullPolicy: Always
