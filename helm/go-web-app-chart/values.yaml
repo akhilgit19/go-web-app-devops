@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: akhilpagadapoola/go-web-app
-  tag: "35075674367"
+  tag: "35076100506"
   pullPolicy: Always
 
 service:
