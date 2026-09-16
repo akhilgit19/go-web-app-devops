@@ -94,7 +94,6 @@
 #         git push
 
 # CI/CD using GitHub Actions
-
 name: CI/CD
 
 on:
