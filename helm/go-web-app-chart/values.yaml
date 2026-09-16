@@ -1,9 +1,8 @@
-#happy helm chart values.yaml file
 replicaCount: 1
 
 image:
   repository: akhilpagadapoola/go-web-app
-  tag: "35043897336"
+  tag: v1
   pullPolicy: Always
 
 service:
