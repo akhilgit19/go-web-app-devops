@@ -1,3 +1,4 @@
+#happy helm chart values.yaml file
 replicaCount: 1
 
 image:
